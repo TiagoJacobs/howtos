@@ -1,0 +1,10 @@
+
+Dependencies:
+apt-get install postgresql-server-dev-11
+apt-get install libxslt-dev libpam-dev libedit-dev libselinux1-dev libssl-dev libkrb5-dev
+
+Compile:
+make all
+
+Install:
+make install
